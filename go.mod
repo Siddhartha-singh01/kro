@@ -6,7 +6,7 @@ toolchain go1.25.4
 
 require (
 	github.com/go-logr/logr v1.4.2
-	github.com/gobuffalo/flect v1.0.2
+	github.com/gobuffalo/flect v1.0.2     
 	github.com/google/cel-go v0.26.0
 	github.com/google/go-cmp v0.7.0
 	github.com/hashicorp/golang-lru/v2 v2.0.7
